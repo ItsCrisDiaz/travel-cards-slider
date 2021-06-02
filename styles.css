@@ -179,7 +179,7 @@ button {
 
 /* Animation for hover items */
 
-@media (hover: hover) and (pointer: fine) {
+@media (hover: hover) {
   .card__content {
     transform: translateY(62%);
     transition: transform 500ms ease-out;
